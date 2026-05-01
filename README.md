@@ -92,7 +92,3 @@ uv run pytest -q
 ## Contributing
 
 Contributions are welcome. Please open an issue or submit a pull request with bug fixes, enhancements, or documentation improvements.
-
-## License
-
-This repository is provided for educational and demonstration purposes. Update the license text as needed for your project.
